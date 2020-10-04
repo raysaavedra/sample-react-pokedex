@@ -1,0 +1,23 @@
+.panel-item {
+  background-color: #747474 !important;
+  margin: 30px;
+}
+
+.panel-bg-color {
+  background-color: #747474 !important;
+}
+
+.panel-footer {
+  border-top: 0px !important;
+  background-color: #747474 !important;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.type-bg {
+  border-radius: 25px;
+}
